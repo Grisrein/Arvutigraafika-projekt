@@ -1,8 +1,8 @@
 # Animatsiooni projekt
 
-Story
-Stiil
-Inspo
+Story: Arrival of train, underground metro station, soldier...
+Stiil: Low-poly PS1 graphics.
+Inspo: Old PS1 games, Metro/Stalker game series.
 
 
 ## Deadlines
